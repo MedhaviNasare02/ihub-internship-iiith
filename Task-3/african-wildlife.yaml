@@ -1,0 +1,10 @@
+path: C:/yoloproject/african-wildlife 
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: elephant
+  1: giraffe
+  2: rhino
+  3: zebra
