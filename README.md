@@ -21,3 +21,7 @@ https://github.com/MedhaviNasare02/ihub-internship-iiith/tree/main/Task-3
 
 ## Task-4: 
 https://github.com/MedhaviNasare02/ihub-internship-iiith/tree/main/Task-4
+
+---
+## Task-5(Project):
+https://github.com/MedhaviNasare02/ihub-internship-iiith/tree/main/Multistage_Cataract_Analysis
